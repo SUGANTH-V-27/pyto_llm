@@ -94,7 +94,11 @@ Implemented custom text generation with:
 - Repetition penalty
 
 ---
+## 📈 Training Curve
 
+![Training Curve](images/assumedplot.png)
+![Training Curve](images/realplot.png)
+---
 ## 🧪 Example Outputs
 ## 🧪 Evaluation Results
 
